@@ -1,0 +1,12 @@
+C:\Users\i\Desktop\1\lab1\lab33\lab33\bin\Debug\lab33.exe.config
+C:\Users\i\Desktop\1\lab1\lab33\lab33\bin\Debug\lab33.exe
+C:\Users\i\Desktop\1\lab1\lab33\lab33\bin\Debug\lab33.pdb
+C:\Users\i\Desktop\1\lab1\lab33\lab33\bin\Debug\lab33.xml
+C:\Users\i\Desktop\1\lab1\lab33\lab33\obj\Debug\lab33.vbproj.AssemblyReference.cache
+C:\Users\i\Desktop\1\lab1\lab33\lab33\obj\Debug\lab33.Form1.resources
+C:\Users\i\Desktop\1\lab1\lab33\lab33\obj\Debug\lab33.Resources.resources
+C:\Users\i\Desktop\1\lab1\lab33\lab33\obj\Debug\lab33.vbproj.GenerateResource.cache
+C:\Users\i\Desktop\1\lab1\lab33\lab33\obj\Debug\lab33.vbproj.CoreCompileInputs.cache
+C:\Users\i\Desktop\1\lab1\lab33\lab33\obj\Debug\lab33.exe
+C:\Users\i\Desktop\1\lab1\lab33\lab33\obj\Debug\lab33.xml
+C:\Users\i\Desktop\1\lab1\lab33\lab33\obj\Debug\lab33.pdb
